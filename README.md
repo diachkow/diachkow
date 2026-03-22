@@ -5,3 +5,5 @@ I write backend apps (you know, REST APIs and stuff) for a living, mostly using 
 I use Neovim, btw, and I like spend my development time in a terminal. You can check my configs in [`.dotfiles`](https://github.com/diachkow/.dotfiles) repo.
 
 Check out more about me and my thoughts at [diachkow.dev](https://diachkow.dev)
+
+You can also check out my [CV](./CV.md) 👔
