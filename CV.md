@@ -104,6 +104,10 @@ services that were serving ML models
 
 **Tools I use**: Neovim as my code editor, Opencode with minimal setup as an AI coding agent.
 
+**Note**: I am also proficient in TypeScript and Golang that I use for my personal projects, but I do not have commectial
+experience writing in those languages. I am open to offers that include working and building stronger skills in those two
+languages.
+
 ## Education
 
 Master's degree in Software Engineering from "Zaporizhzhia Polytechnic" National University.
