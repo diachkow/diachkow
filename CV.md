@@ -5,7 +5,7 @@
 - **Personal site**: [diachkow.dev](https://diachkow.dev)
 - **GitHub**: [@diachkow](https://github.com/diachkow)
 - **LinkedIn**: [@diachkow](https://www.linkedin.com/in/diachkow)
-- **Email**: [diachkovspecial@gmail.com](mailto:diachkovspecial@gmail.com)
+- **Email**: [contact@diachkow.dev](mailto:contact@diachkow.dev)
 
 ## About
 
